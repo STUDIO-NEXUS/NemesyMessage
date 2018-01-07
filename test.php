@@ -1,8 +1,8 @@
-sting
+
+\\  The script private @ Freddy group STUDIO NEXUS
 
 
 
-the best!sdasdasdasdsdasdasdasd
 
 
 
