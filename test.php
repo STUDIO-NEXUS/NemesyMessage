@@ -14,6 +14,4 @@
 
 #news1 11111
 
-<php?
-
-asd
+<content>hot_wert</content>
