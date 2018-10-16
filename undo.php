@@ -9,3 +9,6 @@ time_sleep_until(timestamp)
 
 
 <? php echo "setlocale(category, locale)";
+
+
+TIME ?>
